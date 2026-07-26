@@ -113,8 +113,8 @@ function CoursePage() {
             </li>
             <li>
               Ссылка на оплату:{" "}
-              <Link href="https://client.work-zilla.com/money/deposit">
-                client.work-zilla.com/money/deposit
+              <Link href="https://work-zilla.com/?ref=7664953&tgref=7664953">
+                work-zilla.com
               </Link>
             </li>
           </ul>
