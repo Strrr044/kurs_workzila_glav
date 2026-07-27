@@ -15,7 +15,7 @@ import infografika from "@/assets/course/infografika.png";
 import limityKon from "@/assets/course/limity-kon.jpg";
 import xboxInst from "@/assets/course/xbox-inst.png";
 import xboxDns from "@/assets/course/xbox-dns.png";
-import onSim from "@/assets/course/on-sim.png";
+import onSim from "@/assets/course/smsfast.png";
 import prezentaciya from "@/assets/course/prezentaciya.png";
 import horoshiyPromt from "@/assets/course/horoshiy-promt.png";
 import plohoyPromt from "@/assets/course/plohoy-promt.png";
@@ -49,7 +49,7 @@ export const courseImages: Record<string, CourseImage> = {
   "лимиты_кон.jpg": { url: limityKon, w: 1050, h: 700, alt: "Лимиты нейросетей" },
   "xdox_инст.png": { url: xboxInst, w: 989, h: 672, alt: "Установка XboxDNS" },
   "xbox_dns.png": { url: xboxDns, w: 1918, h: 764, alt: "XboxDNS" },
-  "on_sim.png": { url: onSim, w: 1906, h: 693, alt: "OnlineSim — аренда номера" },
+  "on_sim.png": { url: onSim, w: 1903, h: 914, alt: "SMSFAST — главная страница сервиса" },
   "презентация.png": { url: prezentaciya, w: 1919, h: 919, alt: "Презентация Gamma AI" },
   "хороший_промт.png": { url: horoshiyPromt, w: 694, h: 177, alt: "Хороший промт", borderColor: "green" },
   "плохой_промт.png": { url: plohoyPromt, w: 694, h: 102, alt: "Плохой промт", borderColor: "red" },
